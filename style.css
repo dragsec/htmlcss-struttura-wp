@@ -49,11 +49,11 @@
     background-color: lightblue;   
     margin-top: 20px;
 }
-.clearfix:after{
+.box3::after{
     display: table;
     content:"";
     clear: both;
-} */
+}  
 .box4{
     width: 800px;
     height: 75px;
