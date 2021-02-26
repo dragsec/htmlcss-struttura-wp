@@ -21,7 +21,45 @@
     height: 400px;
     background-color: blue;
     margin: 20px auto;
+    clear:both;
 }
+.box3_1{
+    width: 800px;
+    height: 75px;
+    background-color: lightblue;
+}
+.box3_2{
+    float: left;
+    width: 20%;
+    height: 275px;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+.box3_3{
+    float: left;
+    width: 60%;
+    height: 275px;
+    background-color: lightblue;
+    margin-top: 20px;
+    
+}
+.box3_4{
+    float: left;
+    width: 20%;
+    height: 275px;
+    background-color: lightblue;
+    margin-top: 20px;
+}
+
+
+/* .clearfix:after{
+    display: block;
+    height: 0;
+    clear: both;
+} */
+
+
 
 .box4{
     width: 800px;
